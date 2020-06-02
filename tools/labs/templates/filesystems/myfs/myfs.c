@@ -1,7 +1,4 @@
-/*
- * SO2 Lab - Filesystem drivers
- * Exercise #1 (no-dev filesystem)
- */
+
 
 #include <linux/kernel.h>
 #include <linux/init.h>
